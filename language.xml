@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <Welcome lang="en">Welcome to Zombie War.</Welcome>
+  <Welcome lang="fr">Bienvenue dans Zombie War.</Welcome>
+  <Welcome lang="es">Bienvenido a la guerra de los zombis.</Welcome>
+  <Welcome lang="jp">ゾンビ戦争へようこそ。</Welcome>
+  <Welcome lang="tl">జోంబీ యుద్ధానికి స్వాగతం.</Welcome>
+
+  <SaveGame lang="en">Presss N for New Game |Press L of Load Old Game</SaveGame>
+  <SaveGame lang="fr">Appuyez sur N pour un nouveau jeu Appuyez sur L pour charger l'ancien jeu</SaveGame>
+  <SaveGame lang="es">Presiona N para Nuevo Juego|Presiona L para Cargar Juego Antiguo</SaveGame>
+  <SaveGame lang="jp">新しいゲームの場合は N を押します 古いゲームのロードの場合は L を押します</SaveGame>
+  <SaveGame lang="tl">కొత్త గేమ్ కోసం N నొక్కండి. లోడ్ ఓల్డ్ గేమ్ యొక్క L నొక్కండి</SaveGame>
+
+  <StartGame lang="en">Press [ENTER] to start</StartGame>
+  <StartGame lang="fr">Appuyez sur [ENTER] pour démarre</StartGame>
+  <StartGame lang="es">Presione [ENTRAR] para comenzar</StartGame>
+  <StartGame lang="jp">[ENTER] を押して開始します</StartGame>
+  <StartGame lang="tl">ప్రారంభించడానికి [ENTER] నొక్కండి</StartGame>
+
+  <PlayerName lang="en">Please enter your name:</PlayerName>
+  <PlayerName lang="fr">S'il vous plaît entrez votre nom:</PlayerName>
+  <PlayerName lang="es">Por favor, escriba su nombre:</PlayerName>
+  <PlayerName lang="jp">お名前を入力してください:</PlayerName>
+  <PlayerName lang="tl">దయచేసి మీ పేరు నమోదు చేయండి:</PlayerName>
+
+  <ZombieCount lang="en">How many zombies do you wish to fight?</ZombieCount>
+  <ZombieCount lang="fr">Combien de zombies souhaitez-vous combattre ?</ZombieCount>
+  <ZombieCount lang="es">¿Con cuántos zombis quieres luchar?</ZombieCount>
+  <ZombieCount lang="jp">何匹のゾンビと戦いたいですか？</ZombieCount>
+  <ZombieCount lang="tl">మీరు ఎంత మంది జాంబీస్‌తో పోరాడాలనుకుంటున్నారు?</ZombieCount>
+
+  <ReadyFight lang="en">Get ready to fight for your life</ReadyFight>
+  <ReadyFight lang="fr">Préparez-vous à vous battre pour votre vie</ReadyFight>
+  <ReadyFight lang="es">Prepárate para luchar por tu vida</ReadyFight>
+  <ReadyFight lang="jp">あなたの人生のために戦う準備をしなさい</ReadyFight>
+  <ReadyFight lang="tl">మీ జీవితం కోసం పోరాడటానికి సిద్ధంగా ఉండండి</ReadyFight>
+  
+  <BigZombieAttack lang="en">Here comes a huge zombie!</BigZombieAttack>
+  <BigZombieAttack lang="fr">Voici un énorme zombie !</BigZombieAttack>
+  <BigZombieAttack lang="es">¡Aquí viene un enorme zombi!</BigZombieAttack>
+  <BigZombieAttack lang="jp">巨大ゾンビ登場！</BigZombieAttack>
+  <BigZombieAttack lang="tl">ఇక్కడ ఒక భారీ జోంబీ వస్తుంది!</BigZombieAttack>
+
+  <NormalZombieAttack lang="en">Here comes zombie </NormalZombieAttack>
+  <NormalZombieAttack lang="fr">Voici un zombie</NormalZombieAttack>
+  <NormalZombieAttack lang="es">aquí viene zombi</NormalZombieAttack>
+  <NormalZombieAttack lng="jp">ゾンビがやってきた</NormalZombieAttack>
+  <NormalZombieAttack lang="tl">ఇక్కడ జోంబీ వస్తుంది</NormalZombieAttack>
+
+
+  <Fighting lang="en">Fighting...</Fighting>
+  <Fighting lang="fr">Lutte...</Fighting>
+  <Fighting lang="es">Lucha...</Fighting>
+  <Fighting lang="jp">ファインティング...</Fighting>
+  <Fighting lang="tl">పోరాటం...</Fighting>
+  
+  <Death lang="en">You have died.</Death>
+  <Death lang="fr">Vous êtes morts.</Death>
+  <Death lang="es">Te has muerto.</Death>
+  <Death lang="jp">あなたは死にました。</Death>
+  <Death lang="tl">నువ్వు చచ్చిపోయావు.</Death>
+  
+  <ZombieHurt lang="en">You injured the zombie!</ZombieHurt>
+  <ZombieHurt lang="fr">Vous avez blessé le zombie !</ZombieHurt>
+  <ZombieHurt lang="es">¡Heriste al zombi!</ZombieHurt>
+  <ZombieHurt lang="jp">ゾンビを傷つけた！</ZombieHurt>
+  <ZombieHurt lang="tl">మీరు జోంబీని గాయపరిచారు!</ZombieHurt>
+  
+  
+  <ZombieHurtBad lang="en">You decapitated the zombie!</ZombieHurtBad>
+  <ZombieHurtBad lang="fr">Vous avez décapité le zombie !</ZombieHurtBad>
+  <ZombieHurtBad lang="es">¡Has decapitado al zombi!</ZombieHurtBad>
+  <ZombieHurtBad lang="jp">ゾンビの首をはねた！</ZombieHurtBad>
+  <ZombieHurtBad lang="tl">మీరు జోంబీని శిరచ్ఛేదం చేసారు!</ZombieHurtBad>
+  
+  <ZombieKilled lang="en">You killed the zombie!</ZombieKilled>
+  <ZombieKilled lang="fr">Vous avez tué le zombie !</ZombieKilled>
+  <ZombieKilled lang="es">¡Has matado al zombi!</ZombieKilled>
+  <ZombieKilled lang="jp">あなたはゾンビを殺しました！</ZombieKilled>
+  <ZombieKilled lang="tl">మీరు జోంబీని చంపారు!</ZombieKilled>
+  
+  <PlayerInjured lang="en">You killed the zombie, but suffered injuries.</PlayerInjured>
+  <PlayerInjured lang="fr">Vous avez tué le zombie, mais vous avez été blessé.</PlayerInjured>
+  <PlayerInjured lang="es">Mataste al zombi, pero sufriste heridas.</PlayerInjured>
+  <PlayerInjured lang="jp">あなたはゾンビを殺しましたが、負傷しました。</PlayerInjured>
+  <PlayerInjured lang="tl">మీరు జోంబీని చంపారు, కానీ గాయపడ్డారు.</PlayerInjured>
+  
+  
+  <PlayerSurvived lang="en">You have survived the onslaught!</PlayerSurvived>
+  <PlayerSurvived lang="fr">Vous avez survécu à l'assaut !</PlayerSurvived>
+  <PlayerSurvived lang="es">¡Has sobrevivido al ataque!</PlayerSurvived>
+  <PlayerSurvived lang="jp">あなたは猛攻撃を生き延びました！</PlayerSurvived>
+  <PlayerSurvived lang="tl">మీరు దాడి నుండి బయటపడ్డారు!</PlayerSurvived>
+
+  
+  <PlayerDead lang="en">You did not survive the zombie war.</PlayerDead>
+  <PlayerDead lang="fr">Vous n'avez pas survécu à la guerre des zombies.</PlayerDead>
+  <PlayerDead lang="es">No sobreviviste a la guerra zombie.</PlayerDead>
+  <PlayerDead lang="jp">あなたはゾンビ戦争を生き延びませんでした。</PlayerDead>
+  <PlayerDead lang="tl">మీరు జోంబీ యుద్ధం నుండి బయటపడలేదు.</PlayerDead>
+  
+  <ZombiesKilled lang="en">Zombies killed:</ZombiesKilled>
+  <ZombiesKilled lang="fr">Zombies tués :</ZombiesKilled>
+  <ZombiesKilled lang="es">Zombis asesinados:</ZombiesKilled>
+  <ZombiesKilled lang="jp">殺されたゾンビ:</ZombiesKilled>
+  <ZombiesKilled lang="tl">జాంబీస్ చంపబడ్డారు:</ZombiesKilled>
+  
+  <FinalScore lang="en">Final score:</FinalScore>
+  <FinalScore lanng="fr">Score final:</FinalScore>
+  <FinalScore lanng="es">Puntuación final:</FinalScore>
+  <FinalScore lang="jp">最終スコア:</FinalScore>
+  <FinalScore lang="tl">చివరి స్కోరు:</FinalScore>
+  
+
+</language>

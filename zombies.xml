@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zombies>
+  <playerAlive>1</playerAlive>
+  <playerskill>9</playerskill>
+  <playerScore>1 </playerScore>
+  <playerName>Bharadwaj </playerName>
+  <zombieCount>0 </zombieCount>
+  <zombiesKilled> 0</zombiesKilled>
+  <userInput>N </userInput>
+</zombies>
